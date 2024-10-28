@@ -11,7 +11,7 @@
     <Fa icon={faFlag} />
 </h1>
 <div>
-    <button on:click={()=>app_function('Сообщение 5')}>Кнопка 5</button>
+    <button onclick={()=>app_function('Сообщение 5')}>Кнопка 5</button>
 </div>
 </div>
 
